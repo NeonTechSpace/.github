@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 44" width="860" height="44" role="img" aria-label="NeonTechSpace on git.cafe">
+  <defs>
+    <linearGradient id="foot-grad-d" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38e8ff" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#38e8ff" stop-opacity="0.75"/>
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.9"/>
+      <stop offset="75%" stop-color="#ec4899" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="foot-star-d" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <path d="M 32 22 L 368 22 L 378 22 L 385 12 L 393 32 L 401 16 L 408 22 L 418 22"
+        fill="none" stroke="url(#foot-grad-d)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 442 22 L 452 22 L 459 16 L 467 32 L 475 12 L 482 22 L 492 22 L 828 22"
+        fill="none" stroke="url(#foot-grad-d)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 430 13 L 432.4 19.6 L 439 22 L 432.4 24.4 L 430 31 L 427.6 24.4 L 421 22 L 427.6 19.6 Z"
+        fill="url(#foot-star-d)"/>
+</svg>
