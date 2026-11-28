@@ -9,7 +9,8 @@
 
 > [!IMPORTANT]
 > **Find NeonTechSpace on [git.cafe/neontechspace](https://git.cafe/neontechspace)**
-> Browse repositories, track issues, and follow active development on our git.cafe organization page.
+>
+> Browse repositories, track issues, and follow active development on the git.cafe organization page
 
 ## Public projects
 
